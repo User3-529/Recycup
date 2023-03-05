@@ -1,15 +1,14 @@
 # Recycup
-We as individuals care deeply about the future of our planet. But as much as we hope to contribute to a sustainable world, there's only so much  that we can do:
+Individually, we are deeply concerned about the future of our planet. But, no matter how much we hope to contribute to a more sustainable world, there is only so much we can do:
 
-**Each year, a handful of corporations contribute to a large percentage of CO2 emissions [1](https://www.statista.com/chart/19594/20-firms-produced-a-third-of-global-emissions/), toxic waste release [2](https://www.statista.com/statistics/799176/largest-corporate-water-polluters-in-the-us/), and single use plastic production (from non-recycled material) [3](https://www.npr.org/2021/05/18/997937090/half-of-the-worlds-single-use-plastic-waste-is-from-just-20-companies-says-a-stu).**
+Every year, a modest number of corporations contribute a significant portion of CO2 emissions, toxic waste release, and single-use plastic production (from non-recycled materials).
 
-While we initially wanted to create a habit tracker for sustainable living (that gamifies simple tasks such as biking to work), we felt it was not enough. Then we came up with an idea that might bring out the synergy of individuals' effort towards sustainability---recycup.
+While we initially intended to develop a habit tracker for sustainable living (that gamifies simple tasks like biking to work), we felt this was insufficient. Then we came up with an idea that might bring out the synergy of individuals' effort towards sustainability---recycup.
 
 ## About recycup
 
 **recycup** provides a platform for individuals to contribute to a common goal---sustainable living. 
-
-For individual users, it is first of all a habit tracker that keeps track of your daily effort to live more sustainably, whether you are already an experienced zero-waste guru or want to embark on a sustainable journey today. 
+For individual users, it is first and foremost a habit tracker that keeps track of your daily efforts to live more sustainably, whether you are a seasoned zero-waste guru or just starting out on your sustainable journey.
 - For each completed daily task ("quest"), users receive a fixed sum of plantey points. 
 - plantey points can be spent on a sustainability initiative---sponsored by our business partners---to show care and support for the cause. 
 - We (will) provide comprehensive statistics and record on habit building, task completion, challenge participation, and most importantly the "rewards" earned by every user, providing a sense of accomplishment that is directly linked to real-world impact. 
@@ -19,9 +18,9 @@ An example: an individual user finishes the "Zero waste for a week" challenge by
 
 ## What's next for recycup
 
-An important step is to find business partners that like the idea.
+Finding business partners who support the concept is an important first step.
 
-We still need to integrate the frontend with the backend. And then hopefully publishing the app on Google Play Store and then on Apple App Store. 
+We still need to connect the frontend and backend. The app will then hopefully be released on Google Play and then on Apple App Store.
 
 ![alt screenshot](./Assets/Images/1.jpg)
 ![alt screenshot](./Assets/Images/2.jpg)
