@@ -28,9 +28,9 @@ An important step is to find business partners that like the idea :)
 
 We still need to integrate the frontend with the backend. And then hopefully publishing the app on Google Play Store and Apple App Store. 
 
-![alt screenshot](./Assets/Images/screenshot1.png)
-![alt screenshot](./Assets/Images/screenshot2.png)
-![alt screenshot](./Assets/Images/screenshot4.png)
-![alt screenshot](./Assets/Images/screenshot5.png)
-![alt screenshot](./Assets/Images/screenshot3.png)
+![alt screenshot](./Assets/Images/1.jpg)
+![alt screenshot](./Assets/Images/2.jpg)
+![alt screenshot](./Assets/Images/3.jpg)
+![alt screenshot](./Assets/Images/4.jpg)
+![alt screenshot](./Assets/Images/5.jpg)
 
