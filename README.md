@@ -1,5 +1,5 @@
-# Plantey
-We as individuals care deeply about the future of our planet. But as much as we hope to contribute to a sustainable world, there's only so much (little) that we can do:
+# Recycup
+We as individuals care deeply about the future of our planet. But as much as we hope to contribute to a sustainable world, there's only so much  that we can do:
 
 **Each year, a handful of corporations contribute to a large percentage of CO2 emissions [1](https://www.statista.com/chart/19594/20-firms-produced-a-third-of-global-emissions/), toxic waste release [2](https://www.statista.com/statistics/799176/largest-corporate-water-polluters-in-the-us/), and single use plastic production (from non-recycled material) [3](https://www.npr.org/2021/05/18/997937090/half-of-the-worlds-single-use-plastic-waste-is-from-just-20-companies-says-a-stu).**
 
