@@ -1,0 +1,54 @@
+{
+  "name": "save-the-planet",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "android": "react-native run-android",
+    "ios": "react-native run-ios",
+    "start": "react-native start",
+    "test": "jest",
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.36",
+    "@fortawesome/free-solid-svg-icons": "^5.15.4",
+    "@fortawesome/react-native-fontawesome": "^0.2.7",
+    "@freakycoder/react-native-bounceable": "^0.2.5",
+    "@react-native-community/checkbox": "^0.5.9",
+    "@react-navigation/bottom-tabs": "^6.0.9",
+    "date-utils": "^1.2.21",
+    "react": "17.0.2",
+    "react-calendar": "^3.5.0",
+    "react-facebook-login": "^4.1.1",
+    "react-native": "0.66.3",
+    "react-native-bouncy-checkbox": "^2.1.7",
+    "react-native-calendars": "^1.1269.0",
+    "react-native-paper": "^4.10.1",
+    "react-native-safe-area-context": "^3.3.2",
+    "react-native-screens": "^3.9.0",
+    "react-native-svg": "^12.1.1"
+  },
+  "devDependencies": {
+    "@babel/core": "7.16.0",
+    "@babel/runtime": "7.16.3",
+    "@react-native-community/eslint-config": "2.0.0",
+    "@react-navigation/native": "^6.0.6",
+    "@react-navigation/native-stack": "^6.2.5",
+    "@types/jest": "^27.0.3",
+    "@types/react": "^17.0.35",
+    "@types/react-native": "^0.66.5",
+    "@types/react-test-renderer": "^17.0.1",
+    "babel-jest": "26.6.3",
+    "eslint": "7.14.0",
+    "http": "^0.0.1-security",
+    "jest": "26.6.3",
+    "metro": "^0.66.2",
+    "metro-core": "^0.66.2",
+    "metro-react-native-babel-preset": "0.66.2",
+    "react-test-renderer": "17.0.2",
+    "typescript": "^4.5.2"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}
